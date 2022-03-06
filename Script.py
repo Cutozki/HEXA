@@ -104,7 +104,7 @@ Song Download Module, For Those Who Love Music
 - Can Be Used By Everyone
 - Works in bot pm
 
-Made By <a href=https://t.me/MWUpdatez>Cutozki</a>"""
+Made By <a href=https://t.me/Mkvtvseris>Cutozki</a>"""
     PIN_TXT ="""<b>PIN MODULE</b>
 <b>Pin :</b>
 
@@ -194,11 +194,11 @@ Delete A Lot Of Messages From Groups!
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. ᗩᒍᗩ᙭ supports buttons with any telegram media type.
+2. Selena2.O supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/MWUpdatez)</code>
+<code>[Button Text](buttonurl:https://t.me/Mkvtvseris)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -293,7 +293,7 @@ This module only works for my admins
 ➪ /short: 𝗎𝗌𝖾 𝗍𝗁𝗂𝗌 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝗐𝗂𝗍𝗁 𝗒𝗈𝗎𝗋 𝗅𝗂𝗇𝗄 𝗍𝗈 𝗀𝖾𝗍 𝗌𝗁𝗈𝗋𝗍𝖾𝖽 𝗅𝗂𝗇𝗄𝗌
 
 ➛𝖤𝗑𝖺𝗆𝗉𝗅𝖾:
-<code>/short https://youtu.be/kB9TkCs8cX0</code>"""
+<code>/short https://Hollyflix.ml</code>"""
 
     VIDEO_TXT ="""𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝚅𝙸𝙳𝙴𝙾 𝙵𝚁𝙾𝙼 𝚈𝙾𝚄𝚃𝚄𝙱𝙴.
 
@@ -301,10 +301,10 @@ This module only works for my admins
 𝘠𝘰𝘶 𝘊𝘢𝘯 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘈𝘯𝘺 𝘝𝘪𝘥𝘦𝘰 𝘍𝘳𝘰𝘮 𝘠𝘰𝘶𝘵𝘶𝘣𝘦
 
 𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚
-• 𝘛𝘺𝘱𝘦 /video or /mp4 𝘈𝘯𝘥 (https://youtu.be/kB9TkCs8cX0)
+• 𝘛𝘺𝘱𝘦 /video or /mp4 𝘈𝘯𝘥 (https://youtu.be/zlJDTxahav0)
 • 𝘌𝘹𝘢𝘮𝘱𝘭𝘦:
-<code>/mp4 https://youtu.be/kB9TkCs8cX0</code>
-<code>/video https://youtu.be/kB9TkCs8cX0</code>"""
+<code>/mp4 https://youtu.be/zlJDTxahav0</code>
+<code>/video https://youtu.be/zlJDTxahav0</code>"""
 
     ZOMBIES_TXT = """𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙺𝙸𝙲𝙺 𝚄𝚂𝙴𝚁𝚂
 
@@ -325,7 +325,7 @@ This module only works for my admins
 
 ➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
 
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/MWUpdatez>𝙼𝚆-𝚄𝙿𝙳𝙰𝚃𝙴𝚉</a>"""
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/Cutozki>Cutozki</a>"""
 
     STICKER_TXT = """𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚃𝙾 𝙵𝙸𝙽𝙳 𝙰𝙽𝚈 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂 𝙸𝙳.
 • 𝐔𝐒𝐀𝐆𝐄
@@ -341,7 +341,7 @@ To Get Sticker ID
 𝘛𝘺𝘱𝘦 /ytthumb 𝘈𝘯𝘥 𝘝𝘪𝘥𝘦𝘰 𝘓𝘪𝘯𝘬
 
 • 𝘌𝘹𝘢𝘮𝘱𝘭𝘦
-<code>/ytthumb https://youtu.be/UyzJ9KEoU0w</code>"""
+<code>/ytthumb https://youtu.be/zlJDTxahav0</code>"""
 
     ABOOK_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝖠𝗎𝖽𝗂𝗈𝖻𝗈𝗈𝗄
 
