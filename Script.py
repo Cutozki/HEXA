@@ -74,7 +74,7 @@ t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍:
 5. /luck or /cownd - Spin the Lucky"""
     DEPLOY_TXT = """<b>𝙷𝙾𝚆 𝚃𝙾 𝙳𝙴𝙿𝙻𝙾𝚈..?</b> 
   
-<b>✮ Deploy Tutorial ››</b> <i><b>https://youtu.be/kB9TkCs8cX0</b></i>
+<b>✮ Deploy Tutorial ››</b> <i><b>https://youtu.be/1G1XwEOnxxo</b></i>
 
 <b>Share and Subscribe</b>
 
